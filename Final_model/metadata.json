@@ -1,0 +1,98 @@
+{
+    "algorithm_type": "classifier",
+    "class_names": [
+        "Normal_State",
+        "Stop_State",
+        "Inside_Touch",
+        "Missaligment",
+        "Outside_Touch"
+    ],
+    "commit": "cbfa945e",
+    "compilation_date": "2024-09-27T09:54:46.387468",
+    "compilation_flags": {
+        "float_abi": "hard",
+        "fshort_enums": false,
+        "short_wchar": false
+    },
+    "compilation_str": "{'compilation_dict':{'request_type':'library','api':{'env':'PROD','version':'v3'},'version':{'web_api':{'env':'PROD','version':'v3'},'local_api':{'version':'2024.06.20.0','platform':'win64'},'studio':'4.5.0'},'compilation_flags':{'float_abi':'hard','short_wchar':false,'fshort_enums':false,'use_knowledge':false},'mcu':'cortex-m4_stmicroelectronics_stm32g4-series','sensor':'acc','request_origin':'manual','algorithm_type':'classifier','lib_version':'v2_cbfa945','info':{},'class_names':'Normal_State,Stop_State,Inside_Touch,Missaligment,Outside_Touch','results':[{'result_id':48,'combination':[1,1,[2,18,17,9,23,24,5,13,3,1,4,19,7,16,25,26,10,11,8,15,0,22,21,12,14,6,20],27,0,91,16,10,10,1,5,1,50,3,3,5,0,1,0.0,0.0,1000000.0,2,0,0,0,0],'performance':{'performance':{'score':0.9638,'precision':0.99,'precision_confidence_interval':[0.914,1.0]},'memory_usage':{'estimated_ram':1188,'estimated_flash':8120,'estimated_flash_knowledge':null}},'learning_min_lines':null}],'data':{'nb_cols':48,'nb_lines':[[{'file_type':'class','nb_lines':87},{'file_type':'class','nb_lines':32},{'file_type':'class','nb_lines':30},{'file_type':'class','nb_lines':31},{'file_type':'class','nb_lines':30}]]},'only_emulators':false,'lock_type':100},'sign':43278,'license_key':'***'}",
+    "compile_emulators": true,
+    "compile_library": true,
+    "data": {
+        "nb_cols": 48,
+        "nb_lines": [
+            [
+                {
+                    "file_type": "class",
+                    "nb_lines": 87
+                },
+                {
+                    "file_type": "class",
+                    "nb_lines": 32
+                },
+                {
+                    "file_type": "class",
+                    "nb_lines": 30
+                },
+                {
+                    "file_type": "class",
+                    "nb_lines": 31
+                },
+                {
+                    "file_type": "class",
+                    "nb_lines": 30
+                }
+            ]
+        ]
+    },
+    "gcc_version": "arm-none-eabi-gcc (Arm GNU Toolchain 13.2.rel1 (Build arm-13.7)) 13.2.1 20231009",
+    "learning_min_lines": null,
+    "lib_limited": false,
+    "library_id": "66f680e732a16f8dcf16cae8",
+    "library_md5sum": "d04d96c77338229b435e15e5fc4cb996",
+    "mcu": "cortex-m4_stmicroelectronics_stm32g4-series",
+    "mcu_cpn": "",
+    "mcu_display_name": "STM32G4 Series - STMicroelectronics",
+    "mcu_family": "STM32G4 Series",
+    "mcu_group": "prod",
+    "mcu_type": "cortex-m4",
+    "mcu_vendor": "STMicroelectronics",
+    "memory_usage": {
+        "flash": 6105,
+        "ram": 817
+    },
+    "optimization_info": {},
+    "performance": {
+        "memory_usage": {
+            "estimated_flash": 8120,
+            "estimated_flash_knowledge": null,
+            "estimated_ram": 1188
+        },
+        "performance": {
+            "precision": 0.99,
+            "precision_confidence_interval": [
+                0.914,
+                1.0
+            ],
+            "score": 0.9638
+        }
+    },
+    "request_type": "library",
+    "sensor": "acc",
+    "studio_info": {
+        "local_api": {
+            "platform": "win64",
+            "version": "2024.06.20.0"
+        },
+        "studio": "4.5.0",
+        "web_api": {
+            "env": "PROD",
+            "version": "v3"
+        }
+    },
+    "user_info": {
+        "company": "None",
+        "email": "emrecanbl@gmail.com",
+        "first_name": "Emrecan",
+        "last_name": "Birg\u00fcl"
+    }
+}
