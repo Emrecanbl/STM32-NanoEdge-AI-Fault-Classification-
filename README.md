@@ -31,9 +31,7 @@ This project implements a real-time fault detection system for a gear connected 
 4. **User Interface**: The detected status is shown on the SSD1306 OLED display.
 5. **Data Logging**: The system can transfer the fault data over USB to a connected PC for further diagnostics.
 
-![Sample](https://github.com/Emrecanbl/STM32-NonoEdge-AI-Fault-Classification-/blob/main/94vdmi.gif?raw=true)
-
-![Sample](https://github.com/Emrecanbl/STM32-NonoEdge-AI-Fault-Classification-/blob/main/Balance.jpg?raw=true)
+![Sample](https://github.com/Emrecanbl/STM32-NonoEdge-AI-Fault-Classification-/blob/main/94vgid.gif?raw=true)
 
 ## Getting Started
 ### Prerequisites
