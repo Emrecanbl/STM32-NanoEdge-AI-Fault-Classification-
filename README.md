@@ -22,6 +22,8 @@ This project implements a real-time fault detection system for a gear connected 
 - **NanoEdge AI Studio**: Machine learning model trained using vibration patterns to classify system states.
 - **I2C Communication**: Interface used for communication between STM32 and both the MPU6050 and SSD1306.
 
+![Sample](https://github.com/Emrecanbl/STM32-NonoEdge-AI-Fault-Classification-/blob/main/Bencmark.png?raw=true)
+
 ## How It Works
 1. **Data Acquisition**: Vibration data is continuously captured from the MPU6050 IMU.
 2. **Feature Extraction**: The vibration data is processed using a pre-trained NanoEdge AI model to detect anomalies or patterns that indicate faults.
