@@ -9,7 +9,7 @@ This project implements a real-time fault detection system for a gear connected 
 - **Real-time Display**: Displays the system's status on an SSD1306 OLED screen.
 - **Data Transfer**: Provides real-time data transfer via USB virtual COM to a PC for further analysis.
   
-  ![Sample](https://github.com/Emrecanbl/STM32-NonoEdge-AI-Fault-Classification/blob/main/file.jpg?raw=true)
+  ![Sample](https://github.com/Emrecanbl/STM32-NonoEdge-AI-Fault-Classification-/blob/main/file.jpg?raw=true)
   
 ## Hardware Components
 - **STM32**: Main controller for data acquisition, processing, and communication.
