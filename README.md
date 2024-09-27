@@ -42,7 +42,7 @@ Run the project and observe the fault detection on the OLED screen.
 - Normal Operation: The OLED displays "Normal Operation".
 - Fault Detected: The OLED shows specific messages like "External Contact" or "Balance Problem".
 - Data Transfer: Use a serial terminal to view real-time data from the virtual COM port.
-- 
+
 ## Future Enhancements
 - Add support for wireless data transmission via BLE.
 - Expand fault detection capabilities with additional sensors.
